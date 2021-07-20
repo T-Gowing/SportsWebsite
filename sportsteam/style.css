@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+
+
+body{
+    font-family: 'Oxygen', sans-serif;
+    background: linear-gradient(to bottom right,rgb(34, 18, 104), rgb(0,0,0));
+    color: white;
+}
+
+header{
+    color: red;
+    text-align:center;
+    font-size: 60px;
+    text-decoration: underline;
+    font-weight: bold;
+    
+
+}
+
+img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+
+}
+
+table, td, th {
+    border: 1px solid white;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+th{
+    background-color: white;
+    color: rgb(34, 18, 104);
+}
+
+footer{
+    color: red;
+    text-align:center;
+    font-size: 30px;
+    padding: 50px;
+}
